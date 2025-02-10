@@ -3,9 +3,9 @@
 
 ### Hi there 👋
 
-- ⚡ I'm currently pursuing Computer Science degree from BITS Pilani
-- 👨‍💻 Passionate developer whose favourite tech stack is MERN
-- 💻 I am exploring software development
+- I am a full stack developer.
+- I love to solve CTFs.
+- Can be mostly found tweaking a linux desktop environment.
 
 ### 🛠 Tech Stack
 <br/>
@@ -15,8 +15,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=white) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) 
